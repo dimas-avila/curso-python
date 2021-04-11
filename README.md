@@ -6,14 +6,14 @@ Cada fichero corresponde con un vídeo. Por tanto, el fichero con el número 2 e
 
 
 ## CONTENIDO DEL CURSO
-A medida que se vayan publicando los vídeos, iré actualizando este repositorio con los ficheros pertinentes. El índice del curso es el siguiente:
+A medida que se vayan publicando los vídeos, iré actualizando este repositorio con los ficheros pertinentes. El índice del curso es el siguiente (están marcados con un ✅ aquellos que ya están disponibles, tanto aquí como en youtube):
 
-1. Introducción a Python. Instalación y Hola Mundo.
-2. Variables, tipos de datos y operadores aritméticos.
-3. Condicionale.
-4. Funciones - Parte 1.
-5. Bucles.
-6. Ejercicio resuelto.
+1. Introducción a Python. Instalación y Hola Mundo ✅
+2. Variables, tipos de datos y operadores aritméticos ✅
+3. Condicionales ✅
+4. Funciones - Parte 1 ✅
+5. Bucles ✅
+6. Ejercicio resuelto ✅
 7. Listas.
 8. Cadenas de Caracteres - Parte 1.
 9. Cadenas de Caracteres - Parte 2.
